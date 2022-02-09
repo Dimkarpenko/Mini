@@ -4,7 +4,7 @@ Mini is a web browser application based on the Python PyQt web engine, made in 2
 ![image](https://user-images.githubusercontent.com/69617058/153123874-7d612c3b-1315-493b-b181-c8f603a6feab.png)
 ## Credits
 https://www.python.org/ -  Python (programming language)  
-https://pypi.org/project/PyQt5/ - PyQt5 library for python
+https://pypi.org/project/PyQt5/ - PyQt5 library for python  
 https://www.youtube.com/watch?v=8qxHaHJ_JyE - YouTube video with making this browser
 ## Author
 (C) 2022 Dmitry Karpenko.
